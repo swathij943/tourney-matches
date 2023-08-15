@@ -1,4 +1,5 @@
 import React from "react"; //optional
+import playerData from "../data/playerData";
 
 function Player(props) {
 

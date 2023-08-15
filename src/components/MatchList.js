@@ -19,7 +19,7 @@ function MatchList(props) {
   
   return (
     <section className="PlayerList MatchList">
-      <h1>Match list</h1>
+      <h1>Math list</h1>
       { matches }
     </section>
   );
